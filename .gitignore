@@ -1,0 +1,11 @@
+# ArchLinux makepkg temporary directories and package files
+src/
+pkg/
+*-*-*-*.pkg.tar
+*-*-*-*.pkg.tar.gz
+*-*-*-*.pkg.tar.bz2
+*-*-*-*.pkg.tar.xz
+*-*-*.src.tar
+*-*-*.src.tar.gz
+*-*-*.src.tar.bz2
+*-*-*.src.tar.xz
