@@ -1,0 +1,46 @@
+message-color: "#fff"
+message-bg-color: "#000"
+desktop-color: "#000"
+
++ boot_menu {
+	left = 50%-350
+	width = 700
+	top = 20%
+	height = 80%-232
+	item_color = "#999"
+	selected_item_color= "#fff"
+	item_padding = 2
+	item_height = 20
+	item_spacing = 4
+}
+
++ progress_bar {
+	id = "__timeout__"
+	left = 20
+	top = 100%-192
+	height = 20
+	width = 100%
+	text_color = "#888"
+	text = "@TIMEOUT_NOTIFICATION_MIDDLE@"
+        bar_style = "*"
+        highlight_style = "*"
+}
+
++ label {
+	top = 100%-32
+	left = 20
+	width = 100%-370
+	height = 120
+	text = "@KEYMAP_SHORT@"
+	align = "left"
+	color = "#FFF"
+}
+
+
++ image {
+	left = 100%-330
+	top = 100%-160
+	width = 330
+	height = 160
+	file = "sicher.png"
+}
