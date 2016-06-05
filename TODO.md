@@ -1,0 +1,2 @@
+- Add a nice scrollbar for `boot_menu`
+- Make console look nicer (`terminal-box`) 
