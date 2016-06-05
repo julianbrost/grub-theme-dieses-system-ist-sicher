@@ -22,8 +22,8 @@ desktop-color: "#000"
 	width = 100%
 	text_color = "#888"
 	text = "@TIMEOUT_NOTIFICATION_MIDDLE@"
-        bar_style = "*"
-        highlight_style = "*"
+	bar_style = "*"
+	highlight_style = "*"
 }
 
 + label {
